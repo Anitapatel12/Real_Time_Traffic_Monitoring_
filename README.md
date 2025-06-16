@@ -19,8 +19,8 @@ A modern web application built with JavaScript/JSX, Vite, and Tailwind CSS.
 
 1. Clone the repository
 ```bash
-git clone <repository-url>
-cd project
+git clone [<repository-url>](https://github.com/Anitapatel12/Real_Time_Traffic_Monitoring_.git)
+cd Real_Time_Traffic_Monitoring_
 ```
 
 2. Install dependencies
